@@ -1,0 +1,3 @@
+EMAIL_USER = 'random@random.com'
+EMAIL_PASS = '123456'
+EMAIL_FROM = 'random@random.com'
